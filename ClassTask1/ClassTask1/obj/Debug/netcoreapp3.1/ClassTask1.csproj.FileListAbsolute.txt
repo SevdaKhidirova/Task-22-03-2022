@@ -1,0 +1,14 @@
+C:\Lessons\tasks\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.exe
+C:\Lessons\tasks\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.deps.json
+C:\Lessons\tasks\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.runtimeconfig.json
+C:\Lessons\tasks\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.runtimeconfig.dev.json
+C:\Lessons\tasks\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.dll
+C:\Lessons\tasks\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.pdb
+C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.csproj.AssemblyReference.cache
+C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.AssemblyInfoInputs.cache
+C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.AssemblyInfo.cs
+C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.csproj.CoreCompileInputs.cache
+C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.dll
+C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.pdb
+C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.genruntimeconfig.cache
