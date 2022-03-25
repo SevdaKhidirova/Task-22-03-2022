@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniz\\Desktop\\22-03-2022\\ClassTask1\\ClassTask1\\ClassTask1.csproj": {}
+    "C:\\Users\\daniz\\Desktop\\sevda\\ClassTask1\\ClassTask1\\ClassTask1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniz\\Desktop\\22-03-2022\\ClassTask1\\ClassTask1\\ClassTask1.csproj": {
+    "C:\\Users\\daniz\\Desktop\\sevda\\ClassTask1\\ClassTask1\\ClassTask1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniz\\Desktop\\22-03-2022\\ClassTask1\\ClassTask1\\ClassTask1.csproj",
+        "projectUniqueName": "C:\\Users\\daniz\\Desktop\\sevda\\ClassTask1\\ClassTask1\\ClassTask1.csproj",
         "projectName": "ClassTask1",
-        "projectPath": "C:\\Users\\daniz\\Desktop\\22-03-2022\\ClassTask1\\ClassTask1\\ClassTask1.csproj",
+        "projectPath": "C:\\Users\\daniz\\Desktop\\sevda\\ClassTask1\\ClassTask1\\ClassTask1.csproj",
         "packagesPath": "C:\\Users\\daniz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniz\\Desktop\\22-03-2022\\ClassTask1\\ClassTask1\\obj\\",
+        "outputPath": "C:\\Users\\daniz\\Desktop\\sevda\\ClassTask1\\ClassTask1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

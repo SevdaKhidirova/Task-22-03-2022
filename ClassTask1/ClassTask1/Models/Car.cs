@@ -9,56 +9,71 @@ namespace ClassTask1.Models
         public int horsePower;
         public bool status = true;
         public double distance;
+        public bool IsOn;
 
-         public void GetDetailedInfo(double fuelAmount,double fuelUsedPerKm)
+        public void TurnOn()
+        {
+            if (IsOn)
+            {
+                //Console.WriteLine("Car is alreday on");
+            }
+            else
+            {
+                IsOn = true;
+                Console.WriteLine("Car is turned on");
+            }
+        }
+        public void TurnOf()
+        {
+            if (IsOn)
+            {
+                IsOn = false;
+                Console.WriteLine("Car turned off  BYEE");
+            }
+            else
+            {
+               // Console.WriteLine("Car is already off!");
+            }
+
+        }
+
+
+        public void GetDetailedInfo(double fuelAmount,double fuelUsedPerKm)
         {
             this.fuelAmount = fuelAmount;
             this.fuelUsedPerKm = fuelUsedPerKm;
         }
 
-        public Car()
+        public Car(string make,string model,string productionYear):base(make,model,productionYear)
         {
-            fuelUsedPerKm = 1;
-            fuelAmount = 60;
-            fuelTankSize = 80;
-        }
-
-        public void isOn()
-        {
-
-            Console.WriteLine("davam ede bilersiniz");
             
         }
-        public void isOf()
-        {
-            Console.WriteLine("you dont turn on Car");
-            return;
-        }
+
+        
 
         public void Go()
         {
-            double result = distance * fuelUsedPerKm;
-            if (result > fuelAmount)
+            if (IsOn)
             {
-                Console.WriteLine("There is no enough fuel ");
-            }
-            else if (distance > 0 && fuelUsedPerKm>0)
-            {
-                Console.WriteLine(distance + " km distance ");
+                if(distance * fuelUsedPerKm <= fuelAmount)
+                {
+                    fuelAmount -= distance * fuelUsedPerKm;
+                    Console.WriteLine($"Car went {distance} km, Remaining fuel {fuelAmount}");
+                }
+                else
+                {
+                    Console.WriteLine($"not enough fuel! Available range: {fuelAmount/fuelUsedPerKm}");
+                }
             }
             else
             {
-                Console.WriteLine("Something wents wrong :)");
-                return;
+                Console.WriteLine("Car is off!");
             }
 
         }
         
 
-        public Car(string model,string make,string year):base(model,make,year)
-        {
-
-        }
+     
 
 
 

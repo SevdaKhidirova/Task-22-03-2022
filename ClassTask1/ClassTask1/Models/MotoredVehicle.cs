@@ -17,18 +17,20 @@ namespace ClassTask1.Models
         public int passengerCount;
 
 
-        public void GetInfo()
+        public string GetInfo()
         {
             make = "Camry";
             model = "Bmw";
             color = "black";
+            return $"{model} - {make} - {color}";
         }
-        public void GetDetailedInfo()
+        public string GetDetailedInfo()
         {
             productionYear = "2001";
             fuelTankSize = 80;
-           // fuelAmount = 60;
+            fuelAmount = 60;
             fuelUsedPerKm = 1;
+            return $"{GetInfo()}- {productionYear}- {fuelAmount} - {fuelUsedPerKm} ";
         }
 
         public MotoredVehicle(string make,string model,string productionYear)

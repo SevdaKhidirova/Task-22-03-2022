@@ -9,11 +9,12 @@ namespace ClassTask2.Models
         public string name;
         public string surname;
         public string email;
-        public string dateOfBirth;
+        public DateTime dateOfBirth;
         public bool isSingle;
         public string userName;
 
-        public Post[] pUser;
+        public Post[] posts;
+
 
 
         public User(string name,string surname,string email,string userName)
@@ -24,7 +25,7 @@ namespace ClassTask2.Models
             this.userName = userName;
 
         }
-        public User(string dateOfBirth,bool isSingle)
+        public User(DateTime dateOfBirth,bool isSingle)
         {
             this.dateOfBirth = dateOfBirth;
             this.isSingle = isSingle;

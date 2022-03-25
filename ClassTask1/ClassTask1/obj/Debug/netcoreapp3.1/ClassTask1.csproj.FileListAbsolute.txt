@@ -12,3 +12,17 @@ C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.csproj
 C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.dll
 C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.pdb
 C:\Lessons\tasks\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.genruntimeconfig.cache
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.exe
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.deps.json
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.runtimeconfig.json
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.runtimeconfig.dev.json
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.dll
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\bin\Debug\netcoreapp3.1\ClassTask1.pdb
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.csproj.AssemblyReference.cache
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.AssemblyInfoInputs.cache
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.AssemblyInfo.cs
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.csproj.CoreCompileInputs.cache
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.dll
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.pdb
+C:\Users\daniz\Desktop\sevda\ClassTask1\ClassTask1\obj\Debug\netcoreapp3.1\ClassTask1.genruntimeconfig.cache

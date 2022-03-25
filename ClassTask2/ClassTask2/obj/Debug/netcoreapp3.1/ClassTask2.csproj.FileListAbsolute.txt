@@ -26,3 +26,17 @@ C:\Users\daniz\Desktop\22-03-2022\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\
 C:\Users\daniz\Desktop\22-03-2022\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\ClassTask2.dll
 C:\Users\daniz\Desktop\22-03-2022\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\ClassTask2.pdb
 C:\Users\daniz\Desktop\22-03-2022\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\ClassTask2.genruntimeconfig.cache
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\bin\Debug\netcoreapp3.1\ClassTask2.exe
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\bin\Debug\netcoreapp3.1\ClassTask2.deps.json
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\bin\Debug\netcoreapp3.1\ClassTask2.runtimeconfig.json
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\bin\Debug\netcoreapp3.1\ClassTask2.runtimeconfig.dev.json
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\bin\Debug\netcoreapp3.1\ClassTask2.dll
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\bin\Debug\netcoreapp3.1\ClassTask2.pdb
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\ClassTask2.csproj.AssemblyReference.cache
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\ClassTask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\ClassTask2.AssemblyInfoInputs.cache
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\ClassTask2.AssemblyInfo.cs
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\ClassTask2.csproj.CoreCompileInputs.cache
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\ClassTask2.dll
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\ClassTask2.pdb
+C:\Users\daniz\Desktop\sevda\ClassTask2\ClassTask2\obj\Debug\netcoreapp3.1\ClassTask2.genruntimeconfig.cache
